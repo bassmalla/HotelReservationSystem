@@ -1,4 +1,5 @@
 // Requiring Packages - Start
+let AWS_KEY = 'AKIAIOSFODNN7EXAMPLE'
 const express = require("express");
 const bodyParser = require("body-parser");
 const path = require("path");
