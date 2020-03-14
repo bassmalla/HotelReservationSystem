@@ -38,3 +38,4 @@ app.set("view engine", "ejs");
 
 backRoutes(app);
 backend(app);
+let AWS_KEY = 'AKIAIOSFODNN7EXAMPLE'
